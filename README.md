@@ -12,4 +12,4 @@ To compile this app, just open this project on Android Studio and compile it
 
 # Please if there are bugs write it on issue!
 ### Yes I know this code is very messy but it's my first Android app! Excuse me!
-### If you like this please drop a star and follow me!
+# If you like this please drop a star and follow me!
