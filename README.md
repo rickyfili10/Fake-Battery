@@ -2,7 +2,7 @@
 ## An Android app that allows you to change your battery percentage (root required)
 
 # What is this app for?
-This app is for when your friends want to steal your charger but you don't want to give it to them, so just set the battery to 4 to show that it still needs to charge
+This app is for when your friends want to steal your charger but you don't want to give it to them, so just set the battery to 4 or lower to show that it still needs to charge
 
 # And to show the normal percentage?
 Just reboot the phone!
